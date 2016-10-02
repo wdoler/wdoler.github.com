@@ -46,6 +46,9 @@ timezone:      null
 quiet:    false
 defaults: []
 
+#Google Services
+google_analytics: UA-85101512-1
+
 # Markdown Processors
 rdiscount:
   extensions: []
