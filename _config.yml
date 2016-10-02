@@ -27,7 +27,7 @@ markdown: kramdown
 
 # Conversion
 markdown:    kramdown
-highlighter: pygments
+highlighter: rogue
 lsi:         false
 excerpt_separator: "\n\n"
 
