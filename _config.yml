@@ -27,7 +27,7 @@ markdown: kramdown
 
 # Conversion
 markdown:    kramdown
-highlighter: rogue
+highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
 
