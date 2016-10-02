@@ -1,7 +1,7 @@
 # Site Settings
 title: 'A blog by Wade'
 description: 'A site to host blog posts and ideas about what I am doing'
-url: 'http://localhost:4000' # the base hostname & protocol for your site
+url: 'http://WadeOler.com' # the base hostname & protocol for your site
 footer_text: 'Copyright&copy; 2016-2017 Wade Oler'
 
 # Admin Settings
