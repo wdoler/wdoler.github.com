@@ -5,31 +5,93 @@
     <description>A site to host blog posts and ideas about what I am doing</description>
     <link>http://WadeOler.com/</link>
     <atom:link href="http://WadeOler.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 21:46:44 -0500</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 21:46:44 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2016 07:07:07 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 07:07:07 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>My First Video Post on Jekyll</title>
-        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+        <title>3D Printing with NinjaFlex</title>
+        <description>&lt;p&gt;One of the main reasons I purchased a 3D printer was the availability of exotic filaments like NinjaFlex. What I didnt realize is how much time and effort it would take to get a quality print from some of these filaments.&lt;/p&gt;
 
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+&lt;p&gt;When I show my friends and colleges see when I show a 3D print, all they are seeing is just the end result. It doesn’t show how many hours that are spent with failed prints, clogged hot ends, and overall trials and errors it takes to get a single semi-decent print. When 3D printing the first question you have to ask yourself is ‘What material are you going to print with?’. This inherently causes multiple and sometimes all of the above issues. This is because not only the type of filament (ABS, PLA, or TPU) comes into play but the quality of the material can make a HUGE difference and this varies drastically from brand to brand. And most of the time it takes many test prints to get your setting just right.&lt;/p&gt;
 
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+&lt;p&gt;NinjaFlex is unlike any material that I have printed and that led to many jams and failed printes. Hopefully these settings will lower someones trial and error time. So on that note, its time to end my rambling and list my settings!&lt;/p&gt;
 
+&lt;h2 id=&quot;ninjaflex&quot;&gt;NinjaFlex&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Bed
+    &lt;ul&gt;
+      &lt;li&gt;Bare Aluminum heated bed
+        &lt;ul&gt;
+          &lt;li&gt;Purple Glue Stick for adhesion (no tape)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Temperature
+        &lt;ul&gt;
+          &lt;li&gt;40 C&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hotend
+    &lt;ul&gt;
+      &lt;li&gt;Direct Drive Extruder
+        &lt;ul&gt;
+          &lt;li&gt;245 C&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Draw Speed
+        &lt;ul&gt;
+          &lt;li&gt;20 mm/s&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Extrusion width
+        &lt;ul&gt;
+          &lt;li&gt;.4 mm&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Layer Height
+        &lt;ul&gt;
+          &lt;li&gt;.2 mm&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Infill Speed
+        &lt;ul&gt;
+          &lt;li&gt;90%&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Infill Density
+        &lt;ul&gt;
+          &lt;li&gt;15%&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are just my personal setting from guessing and checking, your mileage may vary.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 31 Aug 2015 08:26:34 -0500</pubDate>
-        <link>http://WadeOler.com/my-first-video-post.html</link>
-        <guid isPermaLink="true">http://WadeOler.com/my-first-video-post.html</guid>
+        <pubDate>Mon, 10 Oct 2016 13:38:34 -0500</pubDate>
+        <link>http://WadeOler.com/3D-Printing-with-NinjaFlex.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/3D-Printing-with-NinjaFlex.html</guid>
         
-        <category>mars</category>
+        <category>3DPrinting</category>
         
-        <category>videos</category>
+        <category>Printing</category>
+        
+        <category>CAD</category>
+        
+        <category>Prusai3</category>
         
         
         <category>blog</category>
         
-        <category>development</category>
+        <category>3DPrinting</category>
+        
+        <category>NinjaFlex</category>
+        
+        <category>HairDrainTrap</category>
         
       </item>
     
