@@ -12,4 +12,4 @@ My girlfriends Fitbit Alta charger broke the other night. These chargers are pro
 
 So I decided, why not print a fix until we can buy something better. Below is what I came up with.
 
-
+<script src="https://embed.github.com/view/3d/wdoler/wdoler.github.com/blob/master/assets/Alta/AltaChargerFix.stl"></script>
