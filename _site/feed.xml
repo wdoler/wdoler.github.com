@@ -5,9 +5,191 @@
     <description>A site to host blog posts and ideas about what I am doing</description>
     <link>http://WadeOler.com/</link>
     <atom:link href="http://WadeOler.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Oct 2016 07:07:07 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Oct 2016 07:07:07 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Sun, 20 Nov 2016 22:18:09 -0600</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2016 22:18:09 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Fixing a Fitbit Alta Charger</title>
+        <description>&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;My girlfriend’s Fitbit Alta charger broke the other night. These chargers are proprietary connectors and IMO pieces of junk. It seems like Fitbit cut corners anywhere they could when it came to these chargers. For example, what engineer decided it was a great idea to make a six inch charge cable? It is so short that you have to hang the product from an outlet… Anyway, one thing lead to another and one of the “wings” from the clip broke.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/Alta/problemBundle.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-quick-fix&quot;&gt;The Quick Fix&lt;/h2&gt;
+&lt;p&gt;So I decided, why not print something until we can buy a better charger that will last longer. Below is what I came up with (hosted on Thingiverse or Github).&lt;/p&gt;
+
+&lt;script src=&quot;https://embed.github.com/view/3d/wdoler/wdoler.github.com/master/assets/Alta/AltaChargerFix.stl&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;This clip is designed to slip onto the Alta and the charger to secure them together when it is hanging/charging.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/Alta/noclip.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/Alta/Clip.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This clip is simple, quick, and her fitbit is now charged. Problem solved.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Nov 2016 03:19:00 -0600</pubDate>
+        <link>http://WadeOler.com/Fixing-a-Fitbit-Charger-with-3D-Printing.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/Fixing-a-Fitbit-Charger-with-3D-Printing.html</guid>
+        
+        <category>blog</category>
+        
+        <category>3DPrinting</category>
+        
+        <category>Fitbit</category>
+        
+        <category>Alta</category>
+        
+        <category>FitbitAlta</category>
+        
+        
+        <category>blog</category>
+        
+        <category>3DPrinting</category>
+        
+        <category>Fitbit</category>
+        
+        <category>Alta</category>
+        
+        <category>FitbitAlta</category>
+        
+      </item>
+    
+      <item>
+        <title>Fixing a Fitbit Alta Charger</title>
+        <description>&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;My girlfriend’s Fitbit Alta charger broke the other night. These chargers are proprietary connectors and IMO pieces of junk. It seems like Fitbit cut corners anywhere they could when it came to these chargers. For example, what engineer decided it was a great idea to make a six inch charge cable? It is so short that you have to hang the product from an outlet… Anyway, one thing lead to another and one of the “wings” from the clip broke.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/Alta/problemBundle.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-quick-fix&quot;&gt;The Quick Fix&lt;/h2&gt;
+&lt;p&gt;So I decided, why not print something until we can buy a better charger that will last longer. Below is what I came up with (hosted on Thingiverse or Github).&lt;/p&gt;
+
+&lt;script src=&quot;https://embed.github.com/view/3d/wdoler/wdoler.github.com/master/assets/Alta/AltaChargerFix.stl&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;This clip is designed to slip onto the Alta and the charger to secure them together when it is hanging/charging.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/Alta/noclip.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/Alta/Clip.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This clip is simple, quick, and her fitbit is now charged. Problem solved.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Nov 2016 03:19:00 -0600</pubDate>
+        <link>http://WadeOler.com/Fixing-a-Fitbit-Charger-with-3D-Printing.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/Fixing-a-Fitbit-Charger-with-3D-Printing.html</guid>
+        
+        <category>blog</category>
+        
+        <category>3DPrinting</category>
+        
+        <category>Fitbit</category>
+        
+        <category>Alta</category>
+        
+        <category>FitbitAlta</category>
+        
+        
+        <category>blog</category>
+        
+        <category>3DPrinting</category>
+        
+        <category>Fitbit</category>
+        
+        <category>Alta</category>
+        
+        <category>FitbitAlta</category>
+        
+      </item>
+    
+      <item>
+        <title>3D Printing with NinjaFlex</title>
+        <description>&lt;p&gt;One of the main reasons I purchased a 3D printer was to use exotic filaments like NinjaFlex. What I didn’t realize is how much time and effort it would take to get a quality print from these odd filaments.&lt;/p&gt;
+
+&lt;p&gt;When I show my friends and colleagues a 3D print, all they are seeing is the end result. It doesn’t show how many hours that are spent with failed prints, clogged hot ends, and overall trial and errors that it takes to get a single semi-decent print. When 3D printing, the first question you have to ask yourself is ‘What material are you going to print with?’. This inherently causes multiple and sometimes all of the above issues. This is because not only the type of filament (ABS, PLA, or TPU) comes into play but the tolerances too. The crazy thing is that these tolerances not only vary drastically from brand to brand but within a single spool too. And most of the time it takes many test prints to get your setting just right.&lt;/p&gt;
+
+&lt;p&gt;NinjaFlex is unlike any material that I have printed and that led to many jams and failed prints. Hopefully these settings will lower someones trial and error time. So on that note, its time to end my rambling and list my settings!&lt;/p&gt;
+
+&lt;h2 id=&quot;ninjaflex&quot;&gt;NinjaFlex&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Bed
+    &lt;ul&gt;
+      &lt;li&gt;Bare Aluminum heated bed
+        &lt;ul&gt;
+          &lt;li&gt;Purple Glue Stick for adhesion (no tape)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Temperature
+        &lt;ul&gt;
+          &lt;li&gt;40 C&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hotend
+    &lt;ul&gt;
+      &lt;li&gt;Direct Drive Extruder
+        &lt;ul&gt;
+          &lt;li&gt;245 C&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Draw Speed
+        &lt;ul&gt;
+          &lt;li&gt;20 mm/s&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Extrusion width
+        &lt;ul&gt;
+          &lt;li&gt;.4 mm&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Layer Height
+        &lt;ul&gt;
+          &lt;li&gt;.2 mm&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Infill Speed
+        &lt;ul&gt;
+          &lt;li&gt;90%&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Infill Density
+        &lt;ul&gt;
+          &lt;li&gt;15%&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are just my personal setting from guessing and checking, your mileage may vary.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 13:38:34 -0500</pubDate>
+        <link>http://WadeOler.com/3D-Printing-with-NinjaFlex.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/3D-Printing-with-NinjaFlex.html</guid>
+        
+        <category>3DPrinting</category>
+        
+        <category>Printing</category>
+        
+        <category>CAD</category>
+        
+        <category>Prusai3</category>
+        
+        
+        <category>blog</category>
+        
+        <category>3DPrinting</category>
+        
+        <category>NinjaFlex</category>
+        
+        <category>HairDrainTrap</category>
+        
+      </item>
     
       <item>
         <title>3D Printing with NinjaFlex</title>
@@ -92,6 +274,84 @@
         <category>NinjaFlex</category>
         
         <category>HairDrainTrap</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Post on Jekyll</title>
+        <description>&lt;p&gt;I see this blog as an outlet to help me track and record what i am doing with my hobbies and my personal adventurs.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Sep 2016 08:26:34 -0500</pubDate>
+        <link>http://WadeOler.com/Website-Up-and-Running.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/Website-Up-and-Running.html</guid>
+        
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Post on Jekyll</title>
+        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 31 Aug 2015 08:26:34 -0500</pubDate>
+        <link>http://WadeOler.com/example-post.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/example-post.html</guid>
+        
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Normal Post on Jekyll</title>
+        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 15 Aug 2015 08:26:34 -0500</pubDate>
+        <link>http://WadeOler.com/my-first-normal-post.html</link>
+        <guid isPermaLink="true">http://WadeOler.com/my-first-normal-post.html</guid>
+        
+        <category>html</category>
+        
+        <category>css</category>
+        
+        <category>javascript</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
         
       </item>
     
